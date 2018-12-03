@@ -1,6 +1,4 @@
 /submission/
-submission/dreams-of-pink-ui.zip
-*.zip
 
 ## Java
 
@@ -56,7 +54,7 @@ com_crashlytics_export_strings.xml
 *.launch
 
 ## NetBeans
-
+.nb-gradle
 /nbproject/private/
 /android/nbproject/private/
 /core/nbproject/private/
