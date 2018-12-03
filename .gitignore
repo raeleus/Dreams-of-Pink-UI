@@ -1,3 +1,7 @@
+/submission/
+submission/dreams-of-pink-ui.zip
+*.zip
+
 ## Java
 
 *.class
@@ -123,7 +127,3 @@ Thumbs.db
 !/ios-moe/xcode/*.xcodeproj/xcshareddata
 !/ios-moe/xcode/*.xcodeproj/project.pbxproj
 /ios-moe/xcode/native/
-
-/submission/
-submission/dreams-of-pink-ui.zip
-*.zip
